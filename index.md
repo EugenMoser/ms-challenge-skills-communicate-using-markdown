@@ -5,4 +5,4 @@
 ### H3
 
 
-![Image of Yaktocat]((https://octodex.github.com/heisencat/)
+![Image of heisencat](https://octodex.github.com/images/heisencat.png)
